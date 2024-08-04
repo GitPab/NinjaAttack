@@ -1,2 +1,0 @@
-# NinjaAttack_NguyenGiaBach
- 

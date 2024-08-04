@@ -5,10 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Coin
-  - Deadzone
-  - SavePoint
-  - Ninja Player
-  - Ground
+  - Deathzone
+  - EnemyWall
+  - Enemy
   layers:
   - Default
   - TransparentFX
